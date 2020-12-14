@@ -1,2 +1,2 @@
-# Labirit-tulo
+# Labirititulo
 Pequeno labirinto em arte ASCII
